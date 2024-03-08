@@ -1,0 +1,120 @@
+@media( max-width:991px){
+    .navi .bi-telephone-fill{
+        margin-left: 10px;
+    }
+    .navbar .mhead{
+        margin-left: -350px;
+    }
+    .navbar .left{
+        margin-left: 50px;
+    }
+    .navbar .left1{
+        margin-left: -20px;
+    }
+    .bg1 .tu{
+        margin-left: 200px;
+    }
+    .bg1 .cu{
+        margin-right: 200px;
+    }
+    
+}   
+
+@media( max-width:768px){
+    .navbar .mhead{
+        margin-left: -250px;
+    }
+    .bg1 .tu{
+        margin-left: 100px;
+    }
+    .bg1 .cu{
+        margin-right: 100px;
+    }
+    .footer .sbtn{
+        height: 35px;
+        width: 35px;
+        background-color: #1659b2;
+    }
+} 
+
+@media( max-width:540px){
+    .navbar .mhead{
+        margin-left: -150px;
+    }
+    .navigation .navi{
+        font-size: 12px;
+    }
+    .navigation .bi-twitter{
+        font-size: 14px;
+        margin-left: 40px;
+    }
+    .navigation .bi-facebook{
+        font-size: 14px;
+        margin-left: -20px;
+    }
+    .navigation .fa-google-plus-g{
+        font-size: 14px;
+        margin-left: -20px;
+    }
+    .navigation .bi-instagram{
+        font-size: 14px;
+        margin-left: -40px;
+    }
+    .navigation .left2p{
+        margin-left: -10px;
+    }
+    .navigation .bi-envelope-fill{
+        margin-left: -50px;
+    }
+    .bg1 .tu{
+        margin-left: 50px;
+    }
+    .bg1 .cu{
+        margin-right: 50px;
+    }
+    body .footer{
+        background-image: url(../images/bg7.jpg);
+        height: 750px;
+        width: 100%;
+        margin-top: 80px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .footer .bgplayer1{
+        height: 750px;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+   
+}
+
+@media( max-width:360px){
+    body .footer{
+        background-image: url(../images/bg7.jpg);
+        height: 950px;
+        width: 100%;
+        margin-top: 80px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .footer .bgplayer1{
+        height: 950px;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .bg1 .tu{
+        margin-left: 85px;
+    }
+    .navbar .mhead{
+        margin-left: -30px;
+    }
+    .navigation .bi-twitter{
+        
+        margin-left: -30px;
+    }
+    .footer .tbg{
+        color: white;
+        font-size: 20px;
+    }
+
+}
