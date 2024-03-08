@@ -1,0 +1,154 @@
+@media( max-width:991px){
+    .bi-envelope{
+        color: red;
+        font-size: 40px;
+        margin-left: 40px;
+    }
+    .bi-clock{
+        color: red;
+        font-size: 40px;
+        margin-left: 80px;
+    }
+    .bi-geo-alt{
+        color: red;
+        font-size: 40px;
+        margin-left: 80px;
+    }
+    .bi-telephone{
+        color: red;
+        font-size: 40px;
+        margin-left: 40px;
+    }
+    .wtu{
+        margin-left: 20px;
+    }
+    .textbox1{
+        width: 90%;
+        height: 40px;
+        margin-top: 40px;
+        margin-left:150px;
+    }
+    .textbox3{
+        width: 90%;
+        height: 40px;
+        margin-top: 40px;
+        margin-left: 150px;
+       
+    }
+    .txt2 .textbox2{
+        width: 60%;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 150px ;
+    }
+    .send .btn-dark{
+        height: 40px;
+        width: 300px;
+        background-color: transparent;
+        border: 2px solid #702733;
+        margin-top: 20px;
+        margin-left: 300px;
+    }
+
+
+}
+@media(max-width:768px){
+    .textbox1{
+        width: 90%;
+        height: 40px;
+        margin-top: 40px;
+        margin-left:130px;
+    }
+    .textbox3{
+        width: 90%;
+        height: 40px;
+        margin-top: 40px;
+        margin-left: 130px;
+       
+    }
+    .txt2 .textbox2{
+        width: 73%;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 130px ;
+    }
+    .send .btn-dark{
+        height: 40px;
+        width: 300px;
+        background-color: transparent;
+        border: 2px solid #702733;
+        margin-top: 20px;
+        margin-left: 250px;
+    }
+
+
+}
+@media(max-width:540px){
+    .txt2 .textbox2{
+        width: 46%;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 130px ;
+    }
+    .send .btn-dark{
+        height: 40px;
+        width: 250px;
+        background-color: transparent;
+        border: 2px solid #702733;
+        margin-top: 20px;
+        margin-left: 130px;
+    }
+    .bi-geo-alt{
+        color: red;
+        font-size: 40px;
+        margin-left: 20px;
+    }
+    .bi-clock{
+        color: red;
+        font-size: 40px;
+        margin-left: 20px;
+    }
+    .bi-envelope{
+        color: red;
+        font-size: 40px;
+        margin-left: 80px;
+    }
+
+
+}
+@media(max-width:360px){
+    .bi-envelope{
+        color: red;
+        font-size: 40px;
+        margin-left: 30px;
+    }
+    .textbox1{
+        width: 90%;
+        height: 40px;
+        margin-top: 40px;
+        margin-left:80px;
+    }
+    .textbox3{
+        width: 80%;
+        height: 40px;
+        margin-top: 40px;
+        margin-left: 80px;
+       
+    }
+    .txt2 .textbox2{
+        width: 58%;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 80px ;
+    }
+    .send .btn-dark{
+        height: 40px;
+        width: 21
+        0px;
+        background-color: transparent;
+        border: 2px solid #702733;
+        margin-top: 20px;
+        margin-left: 80px;
+    }
+
+}

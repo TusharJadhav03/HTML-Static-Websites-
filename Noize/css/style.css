@@ -1,0 +1,103 @@
+.main {
+    background-image: url(../images/bg5.jpg);
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+  }
+  .hlogo{
+      color: white;
+  }
+  .pcolor{
+      color: #737376;
+  }
+  .bi-soundwave{
+      color: white;
+      font-size: 70px;
+      margin-bottom: 0px;
+  }
+  .gap{
+      margin-left: 50px;
+      font-weight: bold;
+      margin-top: 15px;
+  }
+  .circle-icon {
+    background: white;
+    padding:5px;
+    border-radius: 50%;
+}
+.footer{
+    background-color: #080808
+}
+.theme{
+    color: #5a0306;
+    margin-top: 100px;
+}
+.bg-row{
+    background-color: #000000;
+}
+.textbox1{
+    width: 80%;
+    height: 40px;
+    margin-top: 40px;
+}
+.textbox3{
+    width: 80%;
+    height: 40px;
+    margin-top: 40px;
+}
+.textbox2{
+    width: 90%;
+    height: 80px;
+    margin-top: 20px;
+}
+.btn-dark{
+    height: 40px;
+    width: 90%;
+    background-color: transparent;
+    border: 2px solid #702733;
+    margin-top: 20px;
+}
+input::placeholder{
+    padding-left: 10px;
+}
+.bi-geo-alt{
+    color: red;
+    font-size: 40px;
+}
+.bi-telephone{
+    color: red;
+    font-size: 40px;
+}
+.bi-clock{
+    color: red;
+    font-size: 40px;
+}
+.bi-envelope{
+    color: red;
+    font-size: 40px;
+}
+p{
+    color: white;
+}
+h4{
+    color: white;
+}
+.heading{
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
+.insta{
+    color: black;
+   font-size: 15px;
+   margin-left: 90px;
+}
+.iconss{
+    color: black;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
